@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Seattlejsmeetup</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {{BASE_TAG}}
+
+    <link rel="stylesheet" href="assets/vendor.css">
+    <link rel="stylesheet" href="assets/seattlejsmeetup.css">
+  </head>
+  <body>
+    <script>
+      window.SeattlejsmeetupENV = {{ENV}};
+      window.EmberENV = window.SeattlejsmeetupENV.EmberENV;
+    </script>
+    <script src="assets/vendor.js"></script>
+    <script src="assets/seattlejsmeetup.js"></script>
+    <script>
+      window.Seattlejsmeetup = require('seattlejsmeetup/app')['default'].create(SeattlejsmeetupENV.APP);
+    </script>
+  </body>
+</html>

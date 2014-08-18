@@ -1,0 +1,13 @@
+<h2 id='title'>Welcome to Seattle JS Meetup </h2>
+
+{{outlet}}
+
+{{#if showTheMessage}}
+  {{totaled-textarea value=seattlejs}}
+  <button class='tiny' {{action 'cancel'}}>Cancel</button>
+{{else}}
+  <button {{action 'showMessage'}}>Show Message</button>
+
+{{/if}}
+
+
