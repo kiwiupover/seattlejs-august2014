@@ -1,0 +1,170 @@
+// Spaces
+$padding-x: 5px;
+$padding-s: 10px;
+$padding-m: 20px;
+$padding-l: 40px;
+
+// Should be used to modify the default spacing between objects (not between nodes of the same object)
+// p, m                = padding,margin
+// a, t, r, b, l, h, v = all,top,right,bottom,left,horizontal,vertical
+// x, s, m, l, n       = padding-x, padding-s, padding-m, padding-l, none
+
+.ptn, .pvn, .pan {
+  padding-top: 0 !important;
+}
+
+.ptx, .pvx, .pax {
+  padding-top: $padding-x !important;
+}
+
+.pts, .pvs, .pas {
+  padding-top: $padding-s !important;
+}
+
+.ptm, .pvm, .pam {
+  padding-top: $padding-m !important;
+}
+
+.ptl, .pvl, .pal {
+  padding-top: $padding-l !important;
+}
+
+.prn, .phn, .pan {
+  padding-right: 0 !important;
+}
+
+.prx, .phx, .pax {
+  padding-right: $padding-x !important;
+}
+
+.prs, .phs, .pas {
+  padding-right: $padding-s !important;
+}
+
+.prm, .phm, .pam {
+  padding-right: $padding-m !important;
+}
+
+.prl, .phl, .pal {
+  padding-right: $padding-l !important;
+}
+
+.pbn, .pvn, .pan {
+  padding-bottom: 0 !important;
+}
+
+.pbx, .pvx, .pax {
+  padding-bottom: $padding-x !important;
+}
+
+.pbs, .pvs, .pas {
+  padding-bottom: $padding-s !important;
+}
+
+.pbm, .pvm, .pam {
+  padding-bottom: $padding-m !important;
+}
+
+.pbl, .pvl, .pal {
+  padding-bottom: $padding-l !important;
+}
+
+.pln, .phn, .pan {
+  padding-left: 0 !important;
+}
+
+.plx, .phx, .pax {
+  padding-left: $padding-x !important;
+}
+
+.pls, .phs, .pas {
+  padding-left: $padding-s !important;
+}
+
+.plm, .phm, .pam {
+  padding-left: $padding-m !important;
+}
+
+.pll, .phl, .pal {
+  padding-left: $padding-l !important;
+}
+
+.mtn, .mvn, .man {
+  margin-top: 0px !important;
+}
+
+.mtx, .mvx, .max {
+  margin-top: $padding-x !important;
+}
+
+.mts, .mvs, .mas {
+  margin-top: $padding-s !important;
+}
+
+.mtm, .mvm, .mam {
+  margin-top: $padding-m !important;
+}
+
+.mtl, .mvl, .mal {
+  margin-top: $padding-l !important;
+}
+
+.mrn, .mhn, .man {
+  margin-right: 0px !important;
+}
+
+.mrx, .mhx, .max {
+  margin-right: $padding-x !important;
+}
+
+.mrs, .mhs, .mas {
+  margin-right: $padding-s !important;
+}
+
+.mrm, .mhm, .mam {
+  margin-right: $padding-m !important;
+}
+
+.mrl, .mhl, .mal {
+  margin-right: $padding-l !important;
+}
+
+.mbn, .mvn, .man {
+  margin-bottom: 0px !important;
+}
+
+.mbx, .mvx, .max {
+  margin-bottom: $padding-x !important;
+}
+
+.mbs, .mvs, .mas {
+  margin-bottom: $padding-s !important;
+}
+
+.mbm, .mvm, .mam {
+  margin-bottom: $padding-m !important;
+}
+
+.mbl, .mvl, .mal {
+  margin-bottom: $padding-l !important;
+}
+
+.mln, .mhn, .man {
+  margin-left: 0px !important;
+}
+
+.mlx, .mhx, .max {
+  margin-left: $padding-x !important;
+}
+
+.mls, .mhs, .mas {
+  margin-left: $padding-s !important;
+}
+
+.mlm, .mhm, .mam {
+  margin-left: $padding-m !important;
+}
+
+.mll, .mhl, .mal {
+  margin-left: $padding-l !important;
+}

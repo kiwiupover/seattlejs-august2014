@@ -1,0 +1,128 @@
+[
+    {
+        "filename": "focus-on-the-dom.md",
+        "attr": {
+            "data-background": "#2ecc71"
+        }
+    },
+    {
+        "filename": "dave-laird.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    {
+        "filename": "building-web-applications.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "jquery-procedual-code.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "dom-coupling.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "multiple-sources-of-truth.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "a-quick-rant.md",
+        "attr": {
+            "data-background": "images/sheep-2048-copy.jpg"
+        }
+    },
+    {
+        "filename": "we-are-climbing-the-same-mountain.md",
+        "attr": {
+            "data-background": "images/long_road.jpg"
+        }
+    },
+    {
+        "filename": "file-complexity.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "building-on-abstrations.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    {
+        "filename": "sometimes-abstrations-can-go-bad.md",
+        "attr": {
+            "data-background": "images/bad_abstractions.gif"
+        }
+    },
+    {
+        "filename": "you-cant-not-have-a-framework.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    {
+        "filename": "do-you-prefer-driving-in-auto-parts-or-automobiles.md",
+        "attr": {
+            "data-background": "images/car_broken_into_parts.jpg"
+        }
+    },
+    {
+        "filename": "where-to-from-here.md",
+        "attr": {
+            "data-background": "#2c3e50"
+        }
+    },
+    {
+        "filename": "dont-start-on-the-ground-floor.md",
+        "attr": {
+            "data-background": "images/start_ground_floor.jpg"
+        }
+    },
+    {
+        "filename": "start-at-42nd-floor.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "build-from-the-40th-floor.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    },
+    {
+        "filename": "libraries-and-frameworks.md",
+        "attr": {
+            "data-background": "#d35400"
+        }
+    },
+    {
+        "filename": "roll-up-dom-updates.md",
+        "attr": {
+            "data-background": "#2ecc71"
+        }
+    },
+    {
+        "filename": "demo.md",
+        "attr": {
+            "data-background": "#34495e"
+        }
+    },
+    {
+        "filename": "thanks.md",
+        "attr": {
+            "data-background": "#3498db"
+        }
+    }
+]
